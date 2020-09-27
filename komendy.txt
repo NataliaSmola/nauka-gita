@@ -1,2 +1,2 @@
 autoprefixer-cli -o style.prefixed.css style.css
-html-validate learning-git-2
+html-validate index.html
